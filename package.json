@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.7",
+    "jest": "^30.4.2"
+  }
 }
